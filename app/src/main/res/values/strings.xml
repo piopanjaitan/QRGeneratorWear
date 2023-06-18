@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">QRGeneratorWear</string>
+    <string name="qrcode_ascii">QRCODE ASCII</string>
+    <string name="link_github"><![CDATA[Power by : piopanjaitan -  <a href="https://github.com/piopanjaitan"> github<a/>]]></string>
+    <string name="qrcode_text">QRCODE TEXT</string>
+
+    <string-array name="ListAsciiCode">
+        <item></item>
+        <item>À</item>
+        <item>Á</item>
+        <item>Â</item>
+        <item>Ã</item>
+        <item>Ä</item>
+        <item>Å</item>
+        <item>Æ</item>
+        <item>Ç</item>
+        <item>È</item>
+        <item>É</item>
+        <item>Ê</item>
+        <item>Ë</item>
+        <item>Ì</item>
+        <item>Í</item>
+        <item>Î</item>
+        <item>Ï</item>
+        <item>Ð</item>
+        <item>Ñ</item>
+        <item>Ò</item>
+        <item>Ó</item>
+        <item>Ô</item>
+        <item>Õ</item>
+        <item>Ö</item>
+        <item>×</item>
+        <item>Ø</item>
+        <item>Ù</item>
+        <item>Ú</item>
+        <item>Û</item>
+        <item>Ü</item>
+        <item>Ý</item>
+        <item>Þ</item>
+        <item>ß</item>
+        <item>à</item>
+        <item>á</item>
+        <item>â</item>
+        <item>ã</item>
+        <item>ä</item>
+        <item>å</item>
+        <item>æ</item>
+        <item>ç</item>
+        <item>è</item>
+        <item>é</item>
+        <item>ê</item>
+        <item>ë</item>
+        <item>ì</item>
+        <item>í</item>
+        <item>î</item>
+        <item>ï</item>
+        <item>ð</item>
+        <item>ñ</item>
+        <item>ò</item>
+        <item>ó</item>
+        <item>ô</item>
+        <item>õ</item>
+        <item>ö</item>
+        <item>÷</item>
+        <item>ø</item>
+        <item>ù</item>
+        <item>ú</item>
+        <item>û</item>
+        <item>ü</item>
+        <item>ý</item>
+        <item>þ</item>
+        <item>ÿ</item>
+    </string-array>
+</resources>
